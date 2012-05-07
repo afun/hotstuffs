@@ -1,25 +1,19 @@
-HOTSTUFFS [GIT] commit 0faadc74: Initial commit.
+HOTSTUFFS [GIT] commit 28ab4343: Update script EmptyTrash, update logs.
 
 
 Path  : git
-Date  : 2011-12-26 14:09:23 +0800
+Date  : 2012-05-07 23:32:15 +0800
 Author: Afun Nahn
-Commit: 0faadc74c15fe2e2b7de4effb077e0e4a65231b8
+Commit: 28ab43432aafa587386c836fc1fbf0a236189c33
 
-    Initial commit.
+    Update script EmptyTrash, update logs.
 
 
 
- .gitignore           |   19 +
- convert_log.pl       |   16 +
- list.txt             |10539 ++++++++++++
- tagfs.logs           | 2203 +++
- tagfs.logs.old       | 4822 ++++++
- tagfs_usage.txt      |   22 +
- trash/EmptyTrash.log |46260 ++++++++++++++++++++++++++++++++++++++++++++++++++
- trash/EmptyTrash.pl  |   33 +
- update_list.sh       |    3 +
- 9 files changed, 63917 insertions(+), 0 deletions(-)
+ tagfs.logs           | 1112 ++++++++++++++++++++++++++++++++++++++++++++++++++
+ trash/EmptyTrash.log |  225 ++++++++++
+ trash/EmptyTrash.pl  |    6 +-
+ 3 files changed, 1340 insertions(+), 3 deletions(-)
 
 ================================================================================
 
